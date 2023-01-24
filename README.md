@@ -4,7 +4,6 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 HTML
 CSS
-JavaScript
 Git
 Github
 Figma
