@@ -3,6 +3,7 @@ Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
 
 - HTML
+- Bootstrap
 - CSS
 - Git
 - Github
