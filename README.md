@@ -2,12 +2,12 @@
 Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
 
-HTML
-CSS
-Git
-Github
-Figma
-Projeto
+- HTML
+- CSS
+- Git
+- Github
+- Figma
+## Projeto
 Desenvolvi a senguda parte do projeto.
 
 Acesse o projeto aqui, online!
